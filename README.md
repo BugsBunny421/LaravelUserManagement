@@ -5,8 +5,10 @@
 <article>
 <h3>Usage</h3>
 1. Clone Repository <br>
-2. run <code>composer install</code> <br>
-3. run <code>npm install</code> <br>
-4. run <code>php artisan migrate</code> <br>
+2. Run <code>composer install</code> <br>
+3. Run <code>npm install</code> <br>
+4. Run <code>php artisan migrate</code> for migrations <br>
+5. Run <code>php artisan serve</code> to serve your project. <br>
+<small>You may be required to set up Database. </small>
 </article>
 </section>
