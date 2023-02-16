@@ -5,8 +5,8 @@
 <article>
 <h3>Usage</h3>
 1. Clone Repository
-2. run <code>composer install</code>
-3. run <code>npm install</code>
-4. run <code>php artisan migrate</code>
+2. run <code>composer install</code> <br>
+3. run <code>npm install</code> <br>
+4. run <code>php artisan migrate</code> <br>
 </article>
 </section>
